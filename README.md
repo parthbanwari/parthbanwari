@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a online code editor<br>🌱 I’m currently learning about assemble language for my next project<br>
+🔭 I’m currently working on a online code editor<br>🌱 I’m currently learning about assembly language for my next project<br>
 
 
 ## 🌐 Socials:
