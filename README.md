@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a online code editor<br>🌱 
+🔭 I’m currently working on side hustle<br>🌱 
 
 
 ## 🌐 Socials:
